@@ -1,0 +1,4 @@
+export const SETSEARCHDATA = 'SETSEARCHDATA';
+export const SUBMITDATA = 'SUBMITDATA';
+export const SETERROR = 'SETERROR';
+

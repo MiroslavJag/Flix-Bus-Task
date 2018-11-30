@@ -1,0 +1,17 @@
+.Destination{
+  border: solid 1px grey;
+  width: 15%;
+  margin: 15px auto;
+  padding: 20px;
+}
+
+.Destination span{
+  font-size: 16pt;
+  font-weight: bold
+}
+
+.Destination button{
+  padding: 10px;
+  color: white;
+  background-color: green;
+}
